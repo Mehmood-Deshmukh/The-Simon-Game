@@ -1,2 +1,2 @@
 # The-Simon-Game
-Tried recreating "The Simon Game" using JQuery
+Tried recreating "The Simon Game" using jQuery
